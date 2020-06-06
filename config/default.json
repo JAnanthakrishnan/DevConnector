@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://ananthu:ananthu@devconnector-s8trb.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://ananthu:ananthu@devconnector-s8trb.mongodb.net/devconnector?retryWrites=true&w=majority",
+  "jwtSecret": "codewithak"
 }
