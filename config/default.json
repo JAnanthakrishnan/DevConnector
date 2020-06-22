@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://ananthu:ananthu@devconnector-s8trb.mongodb.net/devconnector?retryWrites=true&w=majority",
-  "jwtSecret": "codewithak"
+  "jwtSecret": "codewithak",
+  "githubClientId": "a4cfa7501ce3fa4859cd",
+  "githubClientSecret": "3e1b1fc261e14198028c147aa634309bd48d3ebe"
 }
