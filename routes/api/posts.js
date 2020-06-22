@@ -1,11 +1,13 @@
-const express = require("express");
+const express = require('express');
 const router = express.Router();
 
-//@route   get api/posts
-//@desc    test route
-//@access  public
-router.get("/", (req, res) => {
-  res.send("Posts Route");
+/**
+ * *@route  GET api/profile/me
+ * *@desc get profile for the current user
+ * *@access Private
+ */
+router.get('/', (req, res) => {
+  res.send('Posts Route');
 });
 
 module.exports = router;
